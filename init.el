@@ -73,7 +73,7 @@
 (require 'hbin-editor)                  ; enhance the editor
 (require 'hbin-defuns)                  ; useful tricks
 (require 'hbin-kbds)                    ; key bindings
-(require 'hbin-misc)                    ; miscellaneous
+(require 'zy-misc)                    ; miscellaneous
 (require 'zy-prog)                    ; programming
 
 ;; set an explicit file to customization created via the UI
