@@ -25,8 +25,8 @@
 ;;; Code:
 
 ;; Who am I?
-(setq user-full-name "Huang Bin")
-(setq user-mail-address "embrace.hbin@gmail.com")
+(setq user-full-name "Zhuang Yao")
+(setq user-mail-address "secularbird.eagle@gmail.com")
 (setq global-mode-string (message "  %s  " user-full-name))
 
 ;; debug begin, show error stack trace.
@@ -69,12 +69,12 @@
 (add-subfolders-to-load-path themes-dir)
 
 ;; load configurations.
-(require 'hbin-ui)                      ; eye candy
+(require 'zy-ui)                      ; eye candy
 (require 'hbin-editor)                  ; enhance the editor
 (require 'hbin-defuns)                  ; useful tricks
 (require 'hbin-kbds)                    ; key bindings
 (require 'hbin-misc)                    ; miscellaneous
-(require 'hbin-prog)                    ; programming
+(require 'zy-prog)                    ; programming
 
 ;; set an explicit file to customization created via the UI
 (setq custom-file (concat user-emacs-directory "custom.el"))
