@@ -40,9 +40,6 @@
 [submodule "vendor/haml-mode"]
 	path = vendor/haml-mode
 	url = git://github.com/nex3/haml-mode.git
-[submodule "vendor/slim-mode"]
-	path = vendor/slim-mode
-	url = git://github.com/minad/emacs-slim.git
 [submodule "vendor/rhtml-mode"]
 	path = vendor/rhtml-mode
 	url = git://github.com/eschulte/rhtml.git
