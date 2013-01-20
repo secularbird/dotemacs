@@ -70,7 +70,7 @@
 
 ;; load configurations.
 (require 'zy-ui)                      ; eye candy
-(require 'hbin-editor)                  ; enhance the editor
+(require 'zy-editor)                  ; enhance the editor
 (require 'hbin-defuns)                  ; useful tricks
 (require 'hbin-kbds)                    ; key bindings
 (require 'zy-misc)                    ; miscellaneous
