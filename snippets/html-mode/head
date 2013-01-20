@@ -1,8 +1,6 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# key: head
+#contributor : Jimmy Wu <frozenthrone88@gmail.com>
+#name : <head>...</head>
 # --
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-
-  <title>$0</title>
+  $0
 </head>

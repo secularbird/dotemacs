@@ -1,6 +1,5 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# name : while ... end
-# key: while
+#name : while ... end
+#group : control structure
 # --
 while ${condition}
   $0

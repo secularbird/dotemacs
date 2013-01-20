@@ -1,4 +1,4 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# key: mailto
+#contributor : Jimmy Wu <frozenthrone88@gmail.com>
+#name : <a href="mailto:...@...">...</a>
 # --
 <a href="mailto:$1@$2">$0</a>

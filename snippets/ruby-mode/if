@@ -1,6 +1,5 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# name: if ... end
-# key: if
+#name : if ... end
+#group : control structure
 # --
 if ${1:condition}
   $0

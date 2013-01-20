@@ -1,5 +1,4 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# name: reject { |...| ... }
-# key: reject
+#name : reject { |...| ... }
+#group : collections
 # --
-reject { |${1:x}| $0 }
+reject { |${1:element}| $0 }

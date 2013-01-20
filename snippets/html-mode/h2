@@ -1,4 +1,5 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# key: h2
+#contributor : Jimmy Wu <frozenthrone88@gmail.com>
+#name : <h2>...</h2>
+#group : header
 # --
-<h2>$0</h2>
+<h2>$1</h2>

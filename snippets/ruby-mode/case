@@ -1,6 +1,5 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# name : case ... end
-# key: case
+#name : case ... end
+#group : general
 # --
 case ${1:object}
 when ${2:condition}

@@ -1,5 +1,4 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# name : inject(...) { |...| ... }
-# key: inject
+#name : inject(...) { |...| ... }
+#group : collections
 # --
-inject${1:(${2:0})} { |${3:sum}, ${4:x}| $0 }
+inject(${1:0}) { |${2:injection}, ${3:element}| $0 }

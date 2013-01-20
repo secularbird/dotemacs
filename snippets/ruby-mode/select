@@ -1,5 +1,4 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# name: select { |...| ... }
-# key: select
+#name : select { |...| ... }
+#group : collections
 # --
 select { |${1:element}| $0 }

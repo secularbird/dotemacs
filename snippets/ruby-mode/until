@@ -1,7 +1,6 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# name: until ... end
-# key: until
+#name : until ... end
+#group: control structure
 # --
-until ${1:condition}
+until ${condition}
   $0
 end

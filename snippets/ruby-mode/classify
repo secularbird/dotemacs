@@ -1,4 +1,4 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# name: classify { |...| ... }
+#name : classify { |...| ... }
+#group : collections
 # --
-classify { |$1| $0 }
+classify { |${e}| $0 }

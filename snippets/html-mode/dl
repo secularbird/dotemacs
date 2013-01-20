@@ -1,5 +1,6 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# key: dl
+#contributor : Rodrigo Setti <rodrigosetti@gmail.com>
+#name : <dl> ... </dl>
+#group : list
 # --
 <dl>
     $0

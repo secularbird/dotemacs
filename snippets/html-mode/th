@@ -1,4 +1,5 @@
-# contributor: hbin <embrace.hbin@gmail.com>
-# key: th
+#contributor : Jimmy Wu <frozenthrone88@gmail.com>
+#name : <th>...</th>
+#group : table
 # --
-<th>$0</th>
+<th$1>$2</th>
