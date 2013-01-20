@@ -17,7 +17,7 @@
 (require 'misc-cscope)               	 ; xcope setting
 
 ;;; load Mac OS X config if needed, unfortunately, I don't need it ;-)
-(when (string= system-type "Darwin")
+(when (string= system-type "darwin")
   (require 'misc-mac))
 
 ;;;;;;; Here are for vendors
