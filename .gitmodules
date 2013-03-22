@@ -136,3 +136,6 @@
 [submodule "vendor/ido-hacks"]
 	path = vendor/ido-hacks
 	url = git://github.com/scottjad/ido-hacks.git
+[submodule "vendor/pylookup"]
+	path = vendor/pylookup
+	url = git://github.com/tsgates/pylookup
