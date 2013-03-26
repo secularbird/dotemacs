@@ -1,12 +1,12 @@
 ;;;###autoload
 (progn
-  (defun hbin-modify-syntax ()
+  (defun zy-modify-syntax ()
     (modify-syntax-entry ?_ "w")
     (modify-syntax-entry ?- "w"))
 
   (defun prog-common-setting ()
     "Common settings for programming."
-    (hbin-modify-syntax)
+    (zy-modify-syntax)
     (turn-on-watchwords)
     (turn-on-autopair-mode)
     (turn-on-textmate-mode)
@@ -29,6 +29,7 @@
 (require 'prog-coffee)
 (require 'prog-python)
 (require 'prog-feature)
+(require 'prog-makefile)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;
 
