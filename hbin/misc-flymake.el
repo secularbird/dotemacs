@@ -38,5 +38,6 @@
 ;; TeX/LaTeX :: Install chktex. Most TeX distributions, including TeXLive and MacTeX, already do this for you.
 (add-hook 'coffee-mode-hook 'flycheck-mode)
 (add-hook 'ruby-mode-hook   'flycheck-mode)
+(add-hook 'python-mode-hook   'flycheck-mode)
 
 (provide 'misc-flymake)
