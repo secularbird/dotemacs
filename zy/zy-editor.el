@@ -102,6 +102,9 @@
 	(setq interprogram-cut-function 'paste-to-osx)
 	(setq interprogram-paste-function 'copy-from-osx))
 
+;tab setting
+(setq c-basic-offset 4)
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (provide 'zy-editor)
