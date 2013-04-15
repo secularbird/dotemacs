@@ -21,7 +21,7 @@
 (mouse-avoidance-mode 'banish)           ; 鼠标自动移动到右上角，以免挡住视线
 (fset 'yes-or-no-p 'y-or-n-p)            ; 以 y/n 代表 yes/no
 
-(setq-default tab-width 2)
+(setq-default tab-width 4)
 (setq-default indent-tabs-mode nil)      ; 空格代替制表符
 (setq-default imenu-auto-rescan t)       ; Rescanning Imenu automatically
 (setq-default truncate-lines t)          ; Disable line wrap
