@@ -30,6 +30,7 @@
 (require 'prog-python)
 (require 'prog-feature)
 (require 'prog-makefile)
+(require 'prog-gas)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;
 
