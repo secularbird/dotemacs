@@ -139,3 +139,6 @@
 [submodule "vendor/pylookup"]
 	path = vendor/pylookup
 	url = git://github.com/tsgates/pylookup
+[submodule "vendor/gas-mode"]
+	path = vendor/gas-mode
+	url = git://github.com/secularbird/gas-mode.git
