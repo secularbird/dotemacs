@@ -29,7 +29,9 @@
 
 ;; Ack is a tool like grep, optimized for programmers
 (require 'full-ack)
-(setq ack-executable (executable-find "ack-grep"))
+(if (string= system-type "darwin")
+	(setq ack-executable (executable-find "ack-5.12"))
+	(setq ack-executable (executable-find "ack-grep")))
 
 ;; A fancy and quickly cursor location minor mode
 (require 'ace-jump-mode)
