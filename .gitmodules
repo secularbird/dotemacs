@@ -142,3 +142,6 @@
 [submodule "vendor/gas-mode"]
 	path = vendor/gas-mode
 	url = git://github.com/secularbird/gas-mode.git
+[submodule "vendor/cmake-mode"]
+	path = vendor/cmake-mode
+	url = git://github.com/secularbird/cmake-mode.git
