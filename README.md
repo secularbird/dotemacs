@@ -23,6 +23,10 @@ Ubuntu
 ```
 sudo apt-get install ack-grep
 ```
+Mac
+```
+sudo port install p5-app-ack
+```
 
 ##### 3. Ctags #####
 
@@ -32,6 +36,10 @@ locate method, constant while programming.
 Ubuntu
 ```
 sudo apt-get install ctags
+```
+Mac
+```
+sudo port install ctags
 ```
 
 ##### 4. Markdown(*optional*) #####
