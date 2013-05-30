@@ -4,7 +4,8 @@
   (autoload 'cmake-mode "cmake-mode" "cmake editing mode." t)
   (setq auto-mode-alist
         (append '(("CMakeLists\\.txt\\'" . cmake-mode)
-                  ("\\.cmake\\'" . cmake-mode))
+                  ("\\.cmake\\'" . cmake-mode)
+                  ("\\.cm\\'" . cmake-mode))
                 auto-mode-alist))
 )
 
