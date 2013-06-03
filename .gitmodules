@@ -1,147 +1,196 @@
 [submodule "vendor/color-theme"]
 	path = vendor/color-theme
 	url = git://github.com/haxney/color-theme.git
+	branch = master
 [submodule "themes/solarized"]
 	path = themes/solarized
 	url = git://github.com/sellout/emacs-color-theme-solarized.git
+	branch = master
 [submodule "vendor/auto-complete"]
 	path = vendor/auto-complete
 	url = git://github.com/auto-complete/auto-complete.git
+	branch = master
 [submodule "vendor/fuzzy"]
 	path = vendor/fuzzy
 	url = git://github.com/auto-complete/fuzzy-el.git
+	branch = master
 [submodule "vendor/popup"]
 	path = vendor/popup
 	url = git://github.com/auto-complete/popup-el.git
+	branch = master
 [submodule "vendor/magit"]
 	path = vendor/magit
 	url = git://github.com/magit/magit.git
+	branch = master
 [submodule "vendor/markdown-mode"]
 	path = vendor/markdown-mode
 	url = git://github.com/defunkt/markdown-mode.git
+	branch = master
 [submodule "vendor/paredit"]
 	path = vendor/paredit
 	url = git://github.com/emacsmirror/paredit.git
+	branch = master
 [submodule "vendor/rainbow-delimiters"]
 	path = vendor/rainbow-delimiters
 	url = git://github.com/jlr/rainbow-delimiters.git
+	branch = master
 [submodule "vendor/rinari"]
 	path = vendor/rinari
 	url = git://github.com/eschulte/rinari.git
+	branch = master
 [submodule "vendor/rvm"]
 	path = vendor/rvm
 	url = git://github.com/senny/rvm.el.git
+	branch = master
 [submodule "vendor/yasnippet"]
 	path = vendor/yasnippet
 	url = git://github.com/capitaomorte/yasnippet.git
+	branch = master
 [submodule "vendor/yaml-mode"]
 	path = vendor/yaml-mode
 	url = git://github.com/yoshiki/yaml-mode.git
+	branch = master
 [submodule "vendor/haml-mode"]
 	path = vendor/haml-mode
 	url = git://github.com/nex3/haml-mode.git
+	branch = master
 [submodule "vendor/rhtml-mode"]
 	path = vendor/rhtml-mode
 	url = git://github.com/eschulte/rhtml.git
+	branch = master
 [submodule "vendor/js2-mode"]
 	path = vendor/js2-mode
 	url = git://github.com/mooz/js2-mode.git
+	branch = master
 [submodule "vendor/coffee-mode"]
 	path = vendor/coffee-mode
 	url = git://github.com/defunkt/coffee-mode.git
+	branch = master
 [submodule "vendor/autopair"]
 	path = vendor/autopair
 	url = git://github.com/capitaomorte/autopair.git
+	branch = master
 [submodule "vendor/expand-region"]
 	path = vendor/expand-region
 	url = git://github.com/magnars/expand-region.el.git
+	branch = master
 [submodule "vendor/ace-jump"]
 	path = vendor/ace-jump
 	url = git://github.com/winterTTr/ace-jump-mode.git
+	branch = master
 [submodule "vendor/highlight-symbol"]
 	path = vendor/highlight-symbol
 	url = git://github.com/nschum/highlight-symbol.el.git
+	branch = master
 [submodule "vendor/yari"]
 	path = vendor/yari
 	url = git://github.com/hron/yari.el.git
+	branch = master
 [submodule "vendor/zencoding"]
 	path = vendor/zencoding
 	url = git://github.com/rooney/zencoding.git
+	branch = master
 [submodule "vendor/flymake-cursor"]
 	path = vendor/flymake-cursor
 	url = git://github.com/emacsmirror/flymake-cursor.git
+	branch = master
 [submodule "themes/molokai"]
 	path = themes/molokai
 	url = git://github.com/alloy-d/color-theme-molokai.git
+	branch = master
 [submodule "vendor/etags-select"]
 	path = vendor/etags-select
 	url = git://github.com/emacsmirror/etags-select.git
+	branch = master
 [submodule "vendor/eproject"]
 	path = vendor/eproject
 	url = git://github.com/jrockway/eproject.git
+	branch = master
 [submodule "vendor/tree-mode"]
 	path = vendor/tree-mode
 	url = git://github.com/emacsmirror/tree-mode.git
+	branch = master
 [submodule "vendor/windata"]
 	path = vendor/windata
 	url = git://github.com/emacsmirror/windata.git
+	branch = master
 [submodule "vendor/dirtree"]
 	path = vendor/dirtree
 	url = git://github.com/zkim/emacs-dirtree.git
+	branch = master
 [submodule "vendor/mark-multiple"]
 	path = vendor/mark-multiple
 	url = git://github.com/magnars/mark-multiple.el.git
+	branch = master
 [submodule "vendor/full-ack"]
 	path = vendor/full-ack
 	url = git://github.com/nschum/full-ack.git
+	branch = master
 [submodule "vendor/lua-mode"]
 	path = vendor/lua-mode
 	url = git://github.com/immerrr/lua-mode.git
+	branch = master
 [submodule "vendor/smex"]
 	path = vendor/smex
 	url = git://github.com/emacsmirror/smex.git
+	branch = master
 [submodule "vendor/whole-line-or-region"]
 	path = vendor/whole-line-or-region
 	url = git://github.com/emacsmirror/whole-line-or-region.git
+	branch = master
 [submodule "vendor/scss-mode"]
 	path = vendor/scss-mode
 	url = git://github.com/antonj/scss-mode.git
+	branch = master
 [submodule "vendor/ruby-tools"]
 	path = vendor/ruby-tools
 	url = git://github.com/rejeep/ruby-tools.git
+	branch = master
 [submodule "vendor/textmate-minor-mode"]
 	path = vendor/textmate-minor-mode
 	url = git://github.com/defunkt/textmate.el.git
+	branch = master
 [submodule "vendor/feature-mode"]
 	path = vendor/feature-mode
 	url = git://github.com/michaelklishin/cucumber.el.git
+	branch = master
 [submodule "vendor/ruby-block"]
 	path = vendor/ruby-block
 	url = git://github.com/emacsmirror/ruby-block.git
+	branch = master
 [submodule "vendor/undo-tree"]
 	path = vendor/undo-tree
 	url = git://github.com/emacsmirror/undo-tree.git
+	branch = master
 [submodule "vendor/popwin"]
 	path = vendor/popwin
 	url = git://github.com/m2ym/popwin-el.git
+	branch = master
 [submodule "vendor/linum-off"]
 	path = vendor/linum-off
 	url = git://github.com/emacsmirror/linum-off.git
+	branch = master
 [submodule "vendor/rspec-mode"]
 	path = vendor/rspec-mode
 	url = git://github.com/pezra/rspec-mode.git
+	branch = master
 [submodule "vendor/flycheck"]
 	path = vendor/flycheck
 	url = git://github.com/lunaryorn/flycheck.git
+	branch = master
 [submodule "vendor/ido-hacks"]
 	path = vendor/ido-hacks
 	url = git://github.com/scottjad/ido-hacks.git
+	branch = master
 [submodule "vendor/pylookup"]
 	path = vendor/pylookup
 	url = git://github.com/tsgates/pylookup
+	branch = master
 [submodule "vendor/gas-mode"]
 	path = vendor/gas-mode
 	url = git://github.com/secularbird/gas-mode.git
+	branch = master
 [submodule "vendor/cmake-mode"]
 	path = vendor/cmake-mode
 	url = git://github.com/secularbird/cmake-mode.git
+	branch = master
