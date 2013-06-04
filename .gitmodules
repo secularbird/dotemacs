@@ -194,3 +194,7 @@
 	path = vendor/cmake-mode
 	url = git://github.com/secularbird/cmake-mode.git
 	branch = master
+[submodule "vendor/dropdown-list"]
+	path = vendor/dropdown-list
+	url = git://github.com/emacsmirror/dropdown-list.git
+	branch = master
