@@ -23,6 +23,9 @@
 
 (setq-default tab-width 4)
 (setq-default indent-tabs-mode nil)      ; 空格代替制表符
+(setq tab-stop-list ())
+(loop for x downfrom 40 to 1 do
+      (setq tab-stop-list (cons (* x 4) tab-stop-list)))
 (setq-default imenu-auto-rescan t)       ; Rescanning Imenu automatically
 (setq-default truncate-lines t)          ; Disable line wrap
 
