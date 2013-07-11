@@ -26,10 +26,6 @@
 	path = vendor/markdown-mode
 	url = git://github.com/defunkt/markdown-mode.git
 	branch = master
-[submodule "vendor/paredit"]
-	path = vendor/paredit
-	url = git://github.com/emacsmirror/paredit.git
-	branch = master
 [submodule "vendor/rainbow-delimiters"]
 	path = vendor/rainbow-delimiters
 	url = git://github.com/jlr/rainbow-delimiters.git
@@ -166,10 +162,6 @@
 	path = vendor/popwin
 	url = git://github.com/m2ym/popwin-el.git
 	branch = master
-[submodule "vendor/linum-off"]
-	path = vendor/linum-off
-	url = git://github.com/emacsmirror/linum-off.git
-	branch = master
 [submodule "vendor/rspec-mode"]
 	path = vendor/rspec-mode
 	url = git://github.com/pezra/rspec-mode.git
@@ -198,3 +190,9 @@
 	path = vendor/dropdown-list
 	url = git://github.com/emacsmirror/dropdown-list.git
 	branch = master
+[submodule "vendor/linum-off"]
+	path = vendor/linum-off
+	url = git://github.com/secularbird/linum-off.git
+[submodule "vendor/paredit"]
+	path = vendor/paredit
+	url = git://github.com/secularbird/paredit.git
