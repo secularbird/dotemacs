@@ -35,6 +35,7 @@
   "Common settings for document."
   (turn-on-flyspell)
   (auto-fill-mode 1)
+  (markdown-command "multimarkdown")
   (auto-complete-mode 1))
 
 ;;; Need flyspell against my poor english
