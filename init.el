@@ -1,3 +1,6 @@
+(load "server")
+(unless (server-running-p) (server-start))
+
 (setq user-full-name "Zhuang Yao")
 (setq user-mail-address "secularbird.eagle@gmail.com")
 (setq global-mode-string (message "  %s  " user-full-name))
